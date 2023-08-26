@@ -1,0 +1,26 @@
+[
+  {
+    "id" : 1,
+    "name" : "Book",
+    "price" : 10.99,
+    "imgUrl" : "/public/images/books.webp"
+  },
+  {
+    "id" : 2,
+    "name" : "Computor",
+    "price" : 1090,
+    "imgUrl" : "/public/images/computer.jpg"
+  },
+  {
+    "id" : 3,
+    "name" : "Banana",
+    "price" : 5.99,
+    "imgUrl" : "/public/images/banan.jpg"
+  },
+  {
+    "id" : 4,
+    "name" : "Car",
+    "price" : 300000,
+    "imgUrl" : "/public/images/car.webp"
+  }
+]
